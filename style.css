@@ -1,0 +1,92 @@
+body{
+    background-color: gray;
+}
+
+.white{
+    height: 30px;
+    width: 25%;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color: #ffffff ;
+    margin: 0 auto;
+    
+    
+}
+.s{
+    padding-left: 90%;
+    transition:0.6s;
+    opacity:0;
+    width: 40%;
+
+} 
+.s:hover{
+opacity:1 ;
+box-shadow: 5px 10px 5px  rgb(83, 84, 84) inset;
+}
+
+
+       
+
+.black1 {
+    height: 21px;
+    width: 12%;
+    border-radius: 5%;
+    background-color:rgb(10, 9, 9);
+    margin-left: 37.3%;
+    margin-top: -26%;
+
+}
+.w{
+    margin-left: 90%;
+    opacity: 0;
+    transition: 0.6;
+    color: white;
+    width: 50vw;
+}
+.w:hover{
+    opacity:1 ;
+    }
+    
+
+.black2 {
+    height: 21px;
+    width: 12%;
+    border-radius: 5%;
+    background-color: black;
+    margin-left: 37.3%;
+    margin-top: 1%;   
+}
+
+
+.black3 {
+    height: 21px;
+    width: 12%;
+    border-radius: 5%;
+    background-color: black;
+    margin-left: 37.3%;
+    margin-top: 6%;
+}
+.black4 {
+    height: 21px;
+    width: 12%;
+    border-radius: 5%;
+    background-color: black;
+    margin-left: 37.3%;
+    margin-top: 0.5%;
+}
+.black5 {
+    height: 21px;
+    width: 12%;
+    border-radius: 5%;
+    background-color: black;
+    margin-left: 37.3%;
+    margin-top: 6.5%;
+}
+.black6 {
+    height: 21px;
+    width: 12%;
+    border-radius: 5%;
+    background-color: black;
+    margin-left: 37.3%;
+    margin-top: 0.5%;
+}
